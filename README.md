@@ -37,7 +37,7 @@ This project was bootstrapped using **Create React App**.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ovenwhisk-frontend.git
+git clone https://github.com/jhatta5579/ovenwhisk-frontend.git
 cd ovenwhisk-frontend
 
 npm install
