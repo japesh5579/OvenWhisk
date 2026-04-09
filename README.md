@@ -7,18 +7,6 @@ This project was bootstrapped using **Create React App**.
 
 ---
 
-## 🚀 Features
-
-- 🔐 User Authentication UI (Login / Register)
-- 📚 Course Listing and Details
-- 👨‍🏫 Instructor Dashboard
-- 🎓 Student Dashboard
-- 📂 Learning Material Viewer
-- 📝 Assignment Interface
-- 📊 Progress and Performance View
-- 📱 Responsive Design
-
----
 
 ## 🛠️ Tech Stack
 
