@@ -31,5 +31,4 @@ cd ovenwhisk-frontend
 npm install
 npm start
 
-## 📁 Project Structure
 
